@@ -40,6 +40,7 @@
   
   - API E-COMMERCE (With FastAPI)
   - 2048 Game on python
+  - Signal processing from electroencephalographic records of patients with spinal cord injury
   
  ## technologies i am currently looking to learn
   <img align="center" alt= "Caio-Django" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
