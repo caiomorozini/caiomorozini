@@ -37,8 +37,8 @@
 </div>
 
  ## Projects im currently working on
-  
   - API E-COMMERCE (With FastAPI)
+  - API for hospital clinical engineering (With FastAPI and Flask)
   - 2048 Game on python
   - Signal processing from electroencephalographic records of patients with spinal cord injury
   
