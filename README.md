@@ -28,6 +28,7 @@
   <img align="center" alt="Caio-Sqlalchemy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="center" alt= "Caio-Django" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img align="center" alt= "Caio-flask" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  
 ## How to contact me
 
 <div> 
