@@ -5,7 +5,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying electrical engineering with a specialization in biomedical engineering at <a href="https://www.unifesp.br/campus/sjc/">Federal University of São Paulo</a>.
 - 🎓 &nbsp; I have a degree in science and technology from the <a href="https://www.unifesp.br/campus/sjc/"> Federal University of São Paulo </a>
-- 💼 &nbsp; Working as an IT intern at <a href="https://infranology.com.br/">Infranology</a>
 ![Snake animation](https://github.com/caiomorozini/caiomorozini/blob/output/github-contribution-grid-snake.svg)
 
 
