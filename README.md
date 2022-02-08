@@ -13,6 +13,18 @@
 - 🪒 &nbsp; I currently work as a backend developer at <a href="https://risk3.com.br/"> Risk 3 </a>
 ![Snake animation](https://github.com/caiomorozini/caiomorozini/blob/output/github-contribution-grid-snake.svg)
   
+  # 🚀 Projects im currently working on
+   
+   
+  - WebCrawlers for Risk analysis
+  
+  - API for hospital clinical engineering (With FastAPI and Flask)
+    
+  - Signal processing from electroencephalographic records of patients with spinal cord injury
+  
+  - Website for calculating TDEE and TMB   
+   
+   
  # <p align=center> Technologies
 
   ## <p align=center> Languages
@@ -42,15 +54,6 @@
   <img align="center" alt="Caio-html5" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Caio-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
  </div>
-    
- # <p align=center> 🚀 Projects im currently working on
-
-  API for hospital clinical engineering (With FastAPI and Flask)
-    
-  Signal processing from electroencephalographic records of patients with spinal cord injury
-  
-  WebCrawlers for Risk analysis
-  
 
   # <p align=center> 📚 technologies i am currently looking to learn
 
