@@ -18,7 +18,7 @@
    
   - WebCrawlers for Risk analysis
   
-  - API for hospital clinical engineering (With FastAPI and Flask)
+  - API for hospital clinical engineering (With FastAPI, Flask and REACT)
     
   - Signal processing from electroencephalographic records of patients with spinal cord injury
   
