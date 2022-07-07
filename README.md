@@ -18,11 +18,10 @@
    
   - WebCrawlers for Risk analysis
   
-  - API for hospital clinical engineering (With FastAPI, Flask and REACT)
+  - API for hospital clinical engineering
     
   - Signal processing from electroencephalographic records of patients with spinal cord injury
   
-  - Website for calculating TDEE and TMB   
    
 
 # <p align=center> Technologies
