@@ -11,8 +11,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying electrical engineering with a specialization in biomedical engineering at <a href="https://www.unifesp.br/campus/sjc/">Federal University of São Paulo</a>.
 - 🎓 &nbsp; I have a degree in science and technology from the <a href="https://www.unifesp.br/campus/sjc/"> Federal University of São Paulo </a>
-- 🪒 &nbsp; I currently work as a backend developer at <a href="https://risk3.com.br/"> Risk 3 </a>
-
 
 
 # Technologies
